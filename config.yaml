@@ -1,0 +1,11 @@
+listen:
+  port : 10000
+  ip: 0.0.0.0
+mongodb:
+  host: 127.0.0.1
+  port: 27017
+  username: 
+  password:
+  database: user-servise
+  authdb: 
+  collection: users
